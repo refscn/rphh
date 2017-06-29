@@ -4,6 +4,8 @@
 目录位置：
 - Windows 系统：{Axure RP 安装目录}/DefaultSettings/Prototype_Files
 - macOS 系统：{Axure RP 安装目录}/Contents/Resources/DefaultSettings/Prototype_Files
+> ![预览](https://github.com/refscn/rphh/raw/master/assets/hh1.png)
+
 
 ### ☞ 软件界面汉化
 请将下载的 /lang 目录文件按以下位置放置，然后重新打开 Axure RP 8 软件即可。
