@@ -1,5 +1,5 @@
-注意：汉化前请备份好替换前的原目录文件，并请下载与你当前安装版本对应的汉化包，否则可能出现不兼容问题。
-1. 导出原型网页模板网页汉化说明：请将下载的 /Prototype_Files 目录文件替换原目录，然后重新导出你的原型作品即可。目录位置：
+注意：汉化前请备份好替换前的原目录文件，并请下载与你当前安装版本对应 tag 的汉化包(例如："for-v8.0.0.3338")，否则可能出现不兼容问题。
+1. 导出原型模板网页汉化说明：请将下载的 /Prototype_Files 目录文件替换原目录，然后重新导出你的原型作品即可。目录位置：
 - Windows 系统：{Axure RP 安装目录}/DefaultSettings/Prototype_Files
 - macOS 系统：{Axure RP 安装目录}/Contents/Resources/DefaultSettings/Prototype_Files
 
