@@ -1,4 +1,4 @@
-> 现开始支持 Axure RP 9.0 版本。
+> 现开始支持 Axure RP 9.0 版本导出界面汉化。
 
 注意：汉化前请备份好替换前的原目录文件，并请下载与你当前安装版本对应的汉化包(例如："v9.0.0.3646")，否则可能出现不兼容问题。
 ### ☞ 导出原型网页模板汉化（推荐）
@@ -6,8 +6,12 @@
 目录位置：
 - Windows 系统：{Axure RP 安装目录}/DefaultSettings/Prototype_Files
 - macOS 系统：{Axure RP 安装目录}/Contents/Resources/DefaultSettings/Prototype_Files
-> ![Axure RP 9 汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure9.png)
-> ![Axure RP 8 汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure8.png)
+
+导出界面汉化预览:
+> Axure RP 9 版本
+![Axure RP 9 导出界面汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure9.png)
+> Axure RP 8 版本
+![Axure RP 8 导出界面汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure8.png)
 
 
 ### ☞ 软件界面汉化
