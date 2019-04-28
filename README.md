@@ -6,7 +6,8 @@
 目录位置：
 - Windows 系统：{Axure RP 安装目录}/DefaultSettings/Prototype_Files
 - macOS 系统：{Axure RP 安装目录}/Contents/Resources/DefaultSettings/Prototype_Files
-> ![预览](https://github.com/refscn/rphh/raw/master/assets/hh1.png)
+> ![Axure RP 9 汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure9.png)
+> ![Axure RP 8 汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure8.png)
 
 
 ### ☞ 软件界面汉化
