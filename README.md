@@ -8,9 +8,12 @@
 - macOS 系统：{Axure RP 安装目录}/Contents/Resources/DefaultSettings/Prototype_Files
 
 导出界面汉化预览:
-> Axure RP 9 版本
+- Axure RP 9 版本
+
 ![Axure RP 9 导出界面汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure9.png)
-> Axure RP 8 版本
+
+- Axure RP 8 版本
+
 ![Axure RP 8 导出界面汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure8.png)
 
 
