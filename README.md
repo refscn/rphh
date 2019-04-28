@@ -7,7 +7,7 @@
 - Windows 系统：{Axure RP 安装目录}/DefaultSettings/Prototype_Files
 - macOS 系统：{Axure RP 安装目录}/Contents/Resources/DefaultSettings/Prototype_Files
 
-导出界面汉化预览:
+汉化预览:
 - Axure RP 9 版本
 
 ![Axure RP 9 导出界面汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure9.png)
