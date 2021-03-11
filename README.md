@@ -10,11 +10,11 @@
 汉化预览:
 - Axure RP 9 版本
 
-![Axure RP 9 导出界面汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure9.png)
+![Axure RP 9 导出界面汉化预览](https://github.com/refscn/rphh/raw/main/assets/hh-axure9.png)
 
 - Axure RP 8 版本
 
-![Axure RP 8 导出界面汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure8.png)
+![Axure RP 8 导出界面汉化预览](https://github.com/refscn/rphh/raw/main/assets/hh-axure8.png)
 
 
 ### ☞ 软件界面汉化
